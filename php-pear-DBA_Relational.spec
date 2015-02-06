@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.2.0
-Release:	10
+Release:	11
 Epoch:		1
 Summary:	Berkeley-style database abstraction class
 License:	PHP License
