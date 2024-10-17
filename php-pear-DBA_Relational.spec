@@ -9,7 +9,7 @@ Epoch:		1
 Summary:	Berkeley-style database abstraction class
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/DBA_Relational/
+URL:		https://pear.php.net/package/DBA_Relational/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
